@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet"href="./index.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500;600&display=swap" rel="stylesheet">
+<title>Frontend Mentor | Base Apparel coming soon page</title>
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>  
+</head>
+<body>
+<div id = "base">
+  <div id = "both">
+    <div><img id = "hero" src="./images/bg-pattern-desktop.svg">
+      <div id = "logo"><img src = "./images/logo.svg">
+      <p id = "firstp"> we're </p>
+        <div id = "br1">
+        coming
+        <br>soon
+      </div>
+      <div id = "br2"><br> Hello fellow shoppers! We're currently building our new
+        <br> store. Add your email below to stay up-to-date with
+        <br>announcements and our launch deals.</div>
+        <div id = "two"><div id = "input">Enter Address </div>
+        <a href = "www.google.com"><div id = "sahm"></div></a>
+        </div>
+      </div>
+    </div>
+    <img id = "back" src="./images/hero-desktop.jpg">
+    </div> 
+</div> 
+ 
+</body>
+</html>
+<footer>
+  <p class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </p>
+</footer>
