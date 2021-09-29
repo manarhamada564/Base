@@ -28,20 +28,19 @@
       <div id = "br2"><br> Hello fellow shoppers! We're currently building our new
         <br> store. Add your email below to stay up-to-date with
         <br>announcements and our launch deals.</div>
-        <div id = "two"><div id = "input">Enter Address </div>
-        <a href = "www.google.com"><div id = "sahm"></div></a>
+        <div id = "two"><div id = "input"><a href = "www.google.com">Login in</a></div>
         </div>
+        <div id = "sign"><a href = "www.google.com"><p>Sign up</p></a></div>
       </div>
     </div>
-    <img id = "back" src="./images/hero-desktop.jpg">
+    <img id = "back" src="./karsten-winegeart-4bC1Ef88OYI-unsplash.jpg">
     </div> 
 </div> 
- 
 </body>
 </html>
 <footer>
   <p class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Manar Hamada</a>.
+    Coded by <a href="https://github.com/Manar20575">Manar Hamada</a>.
   </p>
 </footer>
