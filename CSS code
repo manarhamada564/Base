@@ -26,6 +26,7 @@
 }
 #back{
     height: 675px;
+    width: 550px;
 }
 
 #firstp{
@@ -56,7 +57,7 @@ line-height: 1.6;
 #input{
     color: hsla(0, 36%, 70%, 0.644);
     background: transparent;
-    border-radius: 25px 0 0 25px;
+    border-radius: 25px;
     border: 2px solid hsla(0, 3%, 62%, 0.541);
     padding: 20px;
     display: flex;
@@ -69,10 +70,19 @@ line-height: 1.6;
     font-size: medium;
     justify-content:center;
     border-right-style: none;
-    -webkit-border-radius: 25px 0 0 25px;
-    -moz-border-radius: 25px 0 0 25px;
-    -ms-border-radius: 25px 0 0 25px;
-    -o-border-radius: 25px 0 0 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    box-shadow: 3px 5px 8px 1px hsl(0deg 36% 70% / 64%);
+
+}
+#sahm p {
+    color: #3424109e;
+    text-decoration: none;
+    position: absolute;
+    font-weight: bold;
+
 }
 #sahm{
     background-color:hsl(0, 36%, 70%);
@@ -82,6 +92,13 @@ line-height: 1.6;
     width: 50px;
     padding: 20px;
     margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
 }
 #two{
     width: 500px;
@@ -91,6 +108,32 @@ line-height: 1.6;
     justify-content: center;
     flex-direction: row;
 }
-a:active{
-  
+#sign{
+    color: hsla(0, 36%, 70%, 0.644);
+    background: transparent;
+    border-radius: 25px;
+    border: 2px solid hsla(0, 3%, 62%, 0.541);
+    padding: 20px;
+    display: flex;
+    width: 350px;
+    height: 8px;
+    padding-bottom: 20px;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 0px;
+    font-size: medium;
+    justify-content:center;
+    border-right-style: none;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    box-shadow: 3px 5px 8px 1px hsl(0deg 36% 70% / 64%);
+
 }
+a{
+    text-decoration: none;
+    color: hsla(0, 36%, 70%, 0.644);
+    
+}
+
