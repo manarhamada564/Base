@@ -5,5 +5,5 @@ https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8
 download files and start coding
 
 # project link
-https://manar20575.github.io/Base/
+https://manarhamada564.github.io/Base/
 
